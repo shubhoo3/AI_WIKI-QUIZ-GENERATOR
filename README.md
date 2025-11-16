@@ -303,5 +303,6 @@ DB_CONFIG = {
 - [ ] Real-time quiz taking with scoring
 - [ ] Custom Wikipedia sources/domains
 
+https://drive.google.com/file/d/1RWMWLXth6RM8X5iUdUPN3t_OY5sczLbM/view?usp=sharing
 
 
