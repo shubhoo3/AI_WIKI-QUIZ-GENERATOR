@@ -303,6 +303,19 @@ DB_CONFIG = {
 - [ ] Real-time quiz taking with scoring
 - [ ] Custom Wikipedia sources/domains
 
+## Sceenshots
+
+- WIKI Generator FastApi docs
+<img width="1897" height="976" alt="AI_WIKI_FASTAPI" src="https://github.com/user-attachments/assets/606166b6-fd20-41ab-a983-f1ac054caec6" />
+
+- HOME Page
+<img width="1834" height="980" alt="Home_Page" src="https://github.com/user-attachments/assets/2ed8669b-0017-47aa-85fe-0722203d373b" />
+
+- Quiz History
+<img width="1620" height="877" alt="Quiz_history" src="https://github.com/user-attachments/assets/2f9452ad-ef5a-4d79-8c86-97cb2066dcba" />
+
+
+
 
 
 
